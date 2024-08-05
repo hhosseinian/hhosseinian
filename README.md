@@ -14,14 +14,14 @@ I am currently seeking a research scientist or R&D engineer position that will a
 
 ## My Selected Certifications
 <!-- Thumbnail Image -->
-<img src="Images/4f7020fb-cc97-4224-9fd9-660440123a60.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
-<img src="Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+<img src="Images/4f7020fb-cc97-4224-9fd9-660440123a60.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
+<img src="Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
 
-<img src="Images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
-<img src="Images/Coursera K5TWMCUFMRN6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+<img src="Images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
+<img src="Images/Coursera K5TWMCUFMRN6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
 
-<img src="Images/Coursera R6CWHZLLBR5N.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
-<img src="Images/Coursera ZZCH5TPY5TQ6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+<img src="Images/Coursera R6CWHZLLBR5N.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
+<img src="Images/Coursera ZZCH5TPY5TQ6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
 
 
 
