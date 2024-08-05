@@ -14,7 +14,7 @@ I am currently seeking a research scientist or R&D engineer position that will a
 
 ## My Selected Certifications
 <!-- Thumbnail Image -->
-<img src="assets/images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+<img src="Images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
 
 <!-- Link to the PDF -->
 [View Coursera 4UWWCVBVAJZ6 Certificate](Images/Coursera204UWWCVBVAJZ6.pdf)
