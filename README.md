@@ -13,25 +13,13 @@ In addition to my technical expertise, I have cultivated my entrepreneurial skil
 I am currently seeking a research scientist or R&D engineer position that will allow me to continue to leverage my skills and expertise in machine learning, communication systems, and statistical modeling. If you are looking for a talented and innovative team player, I would love to hear from you.
 
 ## My Selected Certifications
-<!-- Thumbnail Image -->
-<img src="Images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
 
-<!-- Link to the PDF -->
-[View Coursera 4UWWCVBVAJZ6 Certificate](Images/Coursera204UWWCVBVAJZ6.pdf)
+| ![Thumbnail of Coursera Certificate](Images/4f7020fb-cc97-4224-9fd9-660440123a60.png) | ![Thumbnail of Coursera Certificate](Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png) | ![Thumbnail of Coursera Certificate](Images/thumbnail-Coursera204UWWCVBVAJZ6.png) |
+|:--:|:--:|:--:|
+| ![Thumbnail of Coursera Certificate](Images/CourseraK5TWMCUFMRN6.png) | ![Thumbnail of Coursera Certificate](Images/CourseraR6CWHZLLBR5N.png) | ![Thumbnail of Coursera Certificate](Images/CourseraZZCH5TPY5TQ6.png) |
 
-<img src="Images/Coursera 4UWWCVBVAJZ6.pdf" alt="Image 1" width="400" height="300"/>
-<img src="assets/images/image2.png" alt="Image 2" width="400" height="300"/>
-<img src="assets/images/image3.png" alt="Image 3" width="400" height="300"/>
-<img src="assets/images/image4.png" alt="Image 4" width="400" height="300"/>
-- [Computer Vision Nanodegree](https://confirm.udacity.com/QQSMTGHJ)
-- [AWS Machine Learning Foundations](https://www.udacity.com/certificate/DGWGLVFZ)
-- [Python Object-Oriented Programming](https://www.linkedin.com/learning/certificates/9a541b7624fe3b5a701e5db39fadd085dbda7011e59f9df7c6e84caf0270398a?trk=backfilled_certificate)
-- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/R6CWHZLLBR5N)
-- [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/SFKC4Y74ZTAG)
-- [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/K5TWMCUFMRN6)
-- [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/ZZCH5TPY5TQ6)
-- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/4UWWCVBVAJZ6)
-- [DL Hyperparameter Tuning](https://www.coursera.org/account/accomplishments/certificate/4UWWCVBVAJZ6)
+
+
 
 
 <!---
