@@ -16,8 +16,7 @@ I am currently seeking a research scientist or R&D engineer position that will a
 
 | ![Thumbnail of Coursera Certificate](Images/4f7020fb-cc97-4224-9fd9-660440123a60.png) | ![Thumbnail of Coursera Certificate](Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png) | ![Thumbnail of Coursera Certificate](Images/thumbnail-Coursera204UWWCVBVAJZ6.png) |
 |:--:|:--:|:--:|
-| ![Thumbnail of Coursera Certificate](Images/4f7020fb-cc97-4224-9fd9-660440123a60.png) | ![Thumbnail of Coursera Certificate](Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png) | ![Thumbnail of Coursera Certificate](Images/thumbnail-Coursera204UWWCVBVAJZ6.png) |
-| ![Thumbnail of Coursera Certificate](Images/Coursera K5TWMCUFMRN6.png) | ![Thumbnail of Coursera Certificate](Images/Coursera R6CWHZLLBR5N.png) | ![Thumbnail of Coursera Certificate](Images/Coursera ZZCH5TPY5TQ6.png) |
+| ![Thumbnail of Coursera Certificate](Images/CourseraK5TWMCUFMRN6.png) | ![Thumbnail of Coursera Certificate](Images/CourseraR6CWHZLLBR5N.png) | ![Thumbnail of Coursera Certificate](Images/CourseraZZCH5TPY5TQ6.png) |
 
 
 
