@@ -12,7 +12,7 @@ In addition to my technical expertise, I have cultivated my entrepreneurial skil
 
 I am currently seeking a research scientist or R&D engineer position that will allow me to continue to leverage my skills and expertise in machine learning, communication systems, and statistical modeling. If you are looking for a talented and innovative team player, I would love to hear from you.
 
-## Selected Certifications
+## My Selected Certifications
 - [Computer Vision Nanodegree](https://confirm.udacity.com/QQSMTGHJ)
 - [AWS Machine Learning Foundations](https://www.udacity.com/certificate/DGWGLVFZ)
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/certificates/9a541b7624fe3b5a701e5db39fadd085dbda7011e59f9df7c6e84caf0270398a?trk=backfilled_certificate)
