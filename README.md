@@ -14,25 +14,15 @@ I am currently seeking a research scientist or R&D engineer position that will a
 
 ## My Selected Certifications
 <!-- Thumbnail Image -->
+<img src="Images/4f7020fb-cc97-4224-9fd9-660440123a60.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+<img src="Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+
 <img src="Images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
-
-<!-- Link to the PDF -->
-[View Coursera 4UWWCVBVAJZ6 Certificate](Images/Coursera204UWWCVBVAJZ6.pdf)
-
 <img src="Images/Coursera K5TWMCUFMRN6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
 
-<!-- Link to the PDF -->
-[Computer Vision Nanodegree](Images/Coursera K5TWMCUFMRN6.pdf)
+<img src="Images/Coursera R6CWHZLLBR5N.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+<img src="Images/Coursera ZZCH5TPY5TQ6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
 
-- [Computer Vision Nanodegree](https://confirm.udacity.com/QQSMTGHJ)
-- [AWS Machine Learning Foundations](https://www.udacity.com/certificate/DGWGLVFZ)
-- [Python Object-Oriented Programming](https://www.linkedin.com/learning/certificates/9a541b7624fe3b5a701e5db39fadd085dbda7011e59f9df7c6e84caf0270398a?trk=backfilled_certificate)
-- [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/R6CWHZLLBR5N)
-- [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/SFKC4Y74ZTAG)
-- [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/K5TWMCUFMRN6)
-- [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/ZZCH5TPY5TQ6)
-- [Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/4UWWCVBVAJZ6)
-- [DL Hyperparameter Tuning](https://www.coursera.org/account/accomplishments/certificate/4UWWCVBVAJZ6)
 
 
 <!---
