@@ -13,15 +13,28 @@ In addition to my technical expertise, I have cultivated my entrepreneurial skil
 I am currently seeking a research scientist or R&D engineer position that will allow me to continue to leverage my skills and expertise in machine learning, communication systems, and statistical modeling. If you are looking for a talented and innovative team player, I would love to hear from you.
 
 ## My Selected Certifications
-<!-- Thumbnail Image -->
-<img src="Images/4f7020fb-cc97-4224-9fd9-660440123a60.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
-<img src="Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
+### Image Thumbnails
 
-<img src="Images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
-<img src="Images/Coursera K5TWMCUFMRN6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <!-- Column 1 -->
+    <div style="flex: 1 1 30%;">
+        <img src="Images/4f7020fb-cc97-4224-9fd9-660440123a60.png" alt="Thumbnail of Coursera Certificate" width="200" height="150" />
+        <img src="Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png" alt="Thumbnail of Coursera Certificate" width="200" height="150" />
+    </div>
 
-<img src="Images/Coursera R6CWHZLLBR5N.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
-<img src="Images/Coursera ZZCH5TPY5TQ6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150"/>
+    <!-- Column 2 -->
+    <div style="flex: 1 1 30%;">
+        <img src="Images/thumbnail-Coursera204UWWCVBVAJZ6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150" />
+        <img src="Images/Coursera K5TWMCUFMRN6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150" />
+    </div>
+
+    <!-- Column 3 -->
+    <div style="flex: 1 1 30%;">
+        <img src="Images/Coursera R6CWHZLLBR5N.png" alt="Thumbnail of Coursera Certificate" width="200" height="150" />
+        <img src="Images/Coursera ZZCH5TPY5TQ6.png" alt="Thumbnail of Coursera Certificate" width="200" height="150" />
+    </div>
+</div>
+
 
 
 
