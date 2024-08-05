@@ -19,10 +19,11 @@ I am currently seeking a research scientist or R&D engineer position that will a
 <!-- Link to the PDF -->
 [View Coursera 4UWWCVBVAJZ6 Certificate](Images/Coursera204UWWCVBVAJZ6.pdf)
 
-<img src="Images/Coursera 4UWWCVBVAJZ6.pdf" alt="Image 1" width="400" height="300"/>
-<img src="assets/images/image2.png" alt="Image 2" width="400" height="300"/>
-<img src="assets/images/image3.png" alt="Image 3" width="400" height="300"/>
-<img src="assets/images/image4.png" alt="Image 4" width="400" height="300"/>
+<img src="Images/Coursera K5TWMCUFMRN6.png" alt="Thumbnail of Coursera Certificate" width="400" height="300"/>
+
+<!-- Link to the PDF -->
+[Computer Vision Nanodegree](Images/Coursera K5TWMCUFMRN6.pdf)
+
 - [Computer Vision Nanodegree](https://confirm.udacity.com/QQSMTGHJ)
 - [AWS Machine Learning Foundations](https://www.udacity.com/certificate/DGWGLVFZ)
 - [Python Object-Oriented Programming](https://www.linkedin.com/learning/certificates/9a541b7624fe3b5a701e5db39fadd085dbda7011e59f9df7c6e84caf0270398a?trk=backfilled_certificate)
