@@ -12,6 +12,8 @@ In addition to my technical expertise, I have cultivated my entrepreneurial skil
 
 I am currently seeking a research scientist or R&D engineer position that will allow me to continue to leverage my skills and expertise in machine learning, communication systems, and statistical modeling. If you are looking for a talented and innovative team player, I would love to hear from you.
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Anek%20Telugu)
+
 ## My Selected Certifications
 
 | ![Thumbnail of Coursera Certificate](Images/4f7020fb-cc97-4224-9fd9-660440123a60.png) | ![Thumbnail of Coursera Certificate](Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png) | ![Thumbnail of Coursera Certificate](Images/thumbnail-Coursera204UWWCVBVAJZ6.png) |
