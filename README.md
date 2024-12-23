@@ -23,9 +23,6 @@ I am currently seeking a research scientist or R&D engineer position that will a
 | ![Thumbnail of Coursera Certificate](Images/CourseraK5TWMCUFMRN6.png) | ![Thumbnail of Coursera Certificate](Images/CourseraR6CWHZLLBR5N.png) | ![Thumbnail of Coursera Certificate](Images/CourseraZZCH5TPY5TQ6.png) |
 
 
-
-
-
 <!---
 hhosseinian/hhosseinian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
