@@ -1,5 +1,6 @@
 My research interests include Communication Theory, Machine Learning, Deep Learning, and Computer Vision. I will describe my repos briefly (to be public soon) in different areas of my research and demo of AI and computer projects I have accomplished. Please feel free to reach out to me at hhosseinianfar@gmail.com for any questions or collaboration. 
 
+
 ## Detailed Summary
 
 As a researcher with a strong technical background in statistical modeling and communication theory, I bring a unique set of skills to the table. With experience in embedded system prototyping and electronic circuit design, as well as expertise in developing optical wireless localization techniques, I have a demonstrated ability to tackle complex challenges and deliver results.
