@@ -12,7 +12,7 @@ My technical skills include up to three years of FPGA prototyping on different t
 In addition to my technical expertise, I have cultivated my entrepreneurial skills, which include developing business model canvases, conducting customer discovery, and validating market sizes. I have extensive experience in technology commercialization and statistical analysis. Furthermore, I possess exceptional verbal and written communication skills, which enable me to convey complex ideas and concepts to individuals of varying backgrounds. I am adept at collaborating with teams, utilizing each team member's unique skill set to achieve common goals.
 
 I am currently seeking a research scientist or R&D engineer position that will allow me to continue to leverage my skills and expertise in machine learning, communication systems, and statistical modeling. If you are looking for a talented and innovative team player, I would love to hear from you.
-
+<!--
 ## Leetcode Progress
 //![Leetcode Stats](https://leetcard.jacoblin.cool/hhosseinianfar2020)
 
@@ -21,7 +21,7 @@ I am currently seeking a research scientist or R&D engineer position that will a
 | ![Thumbnail of Coursera Certificate](Images/4f7020fb-cc97-4224-9fd9-660440123a60.png) | ![Thumbnail of Coursera Certificate](Images/f0de87f3-8be7-426c-95c3-ded00c972e40.png) | ![Thumbnail of Coursera Certificate](Images/thumbnail-Coursera204UWWCVBVAJZ6.png) |
 |:--:|:--:|:--:|
 | ![Thumbnail of Coursera Certificate](Images/CourseraK5TWMCUFMRN6.png) | ![Thumbnail of Coursera Certificate](Images/CourseraR6CWHZLLBR5N.png) | ![Thumbnail of Coursera Certificate](Images/CourseraZZCH5TPY5TQ6.png) |
-
+-->
 
 <!---
 hhosseinian/hhosseinian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
