@@ -1,4 +1,4 @@
-My research interests include Communication Theory, Machine Learning, Deep Learning, and Computer Vision. I will describe my repos briefly (to be public soon) in different areas of my research and demo of AI and computer projects I have accomplished.
+<!-- My research interests include Communication Theory, Machine Learning, Deep Learning, and Computer Vision. I will describe my repos briefly (to be public soon) in different areas of my research and demo of AI and computer projects I have accomplished.
 
 
 ## Detailed Summary
@@ -12,7 +12,7 @@ My technical skills include up to three years of FPGA prototyping on different t
 In addition to my technical expertise, I have cultivated my entrepreneurial skills, which include developing business model canvases, conducting customer discovery, and validating market sizes. I have extensive experience in technology commercialization and statistical analysis. Furthermore, I possess exceptional verbal and written communication skills, which enable me to convey complex ideas and concepts to individuals of varying backgrounds. I am adept at collaborating with teams, utilizing each team member's unique skill set to achieve common goals.
 
 I am currently seeking a research scientist or R&D engineer position that will allow me to continue to leverage my skills and expertise in machine learning, communication systems, and statistical modeling. If you are looking for a talented and innovative team player, I would love to hear from you.
-<!--
+
 ## Leetcode Progress
 //![Leetcode Stats](https://leetcard.jacoblin.cool/hhosseinianfar2020)
 
@@ -27,3 +27,4 @@ I am currently seeking a research scientist or R&D engineer position that will a
 hhosseinian/hhosseinian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-->
