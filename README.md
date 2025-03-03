@@ -1,4 +1,4 @@
-My research interests include Communication Theory, Machine Learning, Deep Learning, and Computer Vision. I will describe my repos briefly (to be public soon) in different areas of my research and demo of AI and computer projects I have accomplished. Please feel free to reach out to me at hhosseinianfar@gmail.com for any questions or collaboration. 
+My research interests include Communication Theory, Machine Learning, Deep Learning, and Computer Vision. I will describe my repos briefly (to be public soon) in different areas of my research and demo of AI and computer projects I have accomplished.
 
 
 ## Detailed Summary
