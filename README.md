@@ -2,7 +2,6 @@
 
 ## Detailed Summary
 
-
 As a researcher with a strong technical background in statistical modeling and communication theory, I bring a unique set of skills to the table. With experience in embedded system prototyping and electronic circuit design, as well as expertise in developing optical wireless localization techniques, I have a demonstrated ability to tackle complex challenges and deliver results.
 
 I am passionate about communication systems, wireless technologies, machine learning, and statistical modeling. I have published numerous peer-reviewed papers on topics such as optical wireless communications, localization, and fiber optics. 
